@@ -4,10 +4,10 @@
 # LeaseLens_FrontEnd
 
 
-- 공동 organization 주소 <https://github.com/LeaseLens>
-
-
 포스코x코딩온 KDT Web 12기 수업 3차 프로젝트 프론트엔드
+
+
+- 공동 organization 주소 : <https://github.com/LeaseLens>
 
 
 ## 💻 프로젝트 개요
