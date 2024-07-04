@@ -1,3 +1,6 @@
+ ![리스렌즈](https://github.com/BB545/LeaseLens_FrontEnd/blob/main/leaselens/src/assets/images/Logo/leaselens_img_logo.png)
+
+
 # LeaseLens_FrontEnd
 
 
