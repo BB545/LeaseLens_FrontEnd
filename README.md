@@ -29,10 +29,10 @@
 
 ## 🙋‍♀️ 팀원 및 역할 소개
 - 공동 작업 : 기획
-- 노현희 : header, footer, review card, side bar, profile, banner 컴포넌트 구현, 상품, 이벤트, 리뷰 글 작성, 마이 페이지 구현, 기획, 디자인
-- 이준규 : product card, review table, like, comment, search 컴포넌트 구현, loading, main, 리뷰 게시판 페이지 구현, 기획, 디자인
-- 김준영 : 백엔드, 기획
-- 너밍 : 백엔드, 기획
+- 노현희 : header, footer, review card, side bar, profile, banner 컴포넌트 구현, 상품, 이벤트, 리뷰 글 작성, 마이 페이지 구현, 디자인
+- 이준규 : product card, review table, like, comment, search 컴포넌트 구현, loading, main, 리뷰 게시판 페이지 구현, 디자인
+- 김준영 : 백엔드
+- 너밍 : 백엔드
 
 
 ## 💡 프로젝트 주요 기능 소개
