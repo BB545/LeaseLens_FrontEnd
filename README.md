@@ -1,4 +1,4 @@
- ![리스렌즈](https://github.com/BB545/LeaseLens_FrontEnd/blob/main/leaselens/src/assets/images/Logo/leaselens_img_logo.png)
+<img src="https://github.com/BB545/LeaseLens_FrontEnd/blob/main/leaselens/src/assets/images/Logo/leaselens_img_logo.png" alt="리스렌즈" width="100" height="100">
 
 
 # LeaseLens_FrontEnd
